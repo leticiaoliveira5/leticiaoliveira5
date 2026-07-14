@@ -8,6 +8,4 @@
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiaoliveira5&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
